@@ -1,0 +1,4 @@
+yt-dlp
+deep-translator
+requests
+ffmpeg-python
